@@ -13,6 +13,6 @@ In this project there:
 - Scale (Varies with temperature).
 
 Used librari:
-- [U8g2lib] (https://github.com/olikraus/u8g2);
+- [U8g2lib](https://github.com/olikraus/u8g2);
 - OneWire (standart);
 - SoftwareSerial (standart).
